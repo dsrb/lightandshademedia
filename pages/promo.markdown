@@ -1,5 +1,5 @@
 ---
-title: Light + Shade
+title: Promo
 permalink: "/promo/"
 layout: promo-layout
 ---
