@@ -1,7 +1,7 @@
 ---
 title: Promo
 permalink: "/promo/"
-position: 2
+position: 6
 layout: promo-layout
 ---
 
