@@ -2,7 +2,7 @@
 title: John Deere - Promo
 date: 2016-10-01 11:30:00 Z
 position: 6
-thumbnail-image: /uploads/work_thumb_015.jpg
+thumbnail-image: "/uploads/work_thumb_015.jpg"
 video: 145106538
 layout: work-profile
 ---

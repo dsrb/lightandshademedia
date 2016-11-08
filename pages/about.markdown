@@ -1,10 +1,11 @@
 ---
-layout: about-layout
 title: About
-hero-image: /uploads/about-image.jpg
-heading: We are passionate<br>story tellers,<br>driven to create<br>powerful films.
-subheading: At Light + Shade we have clear direction It’s to be original and it’s at the core of everything we do.
 permalink: "/about/"
+layout: about-layout
+hero-image: "/uploads/about-image.jpg"
+heading: We are passionate<br>story tellers,<br>driven to create<br>powerful films.
+subheading: At Light + Shade we have clear direction It’s to be original and it’s
+  at the core of everything we do.
 ---
 
 We bend our minds to create an idea that bends your mind, then back that up with the skills and experience to bring that concept to life. Light + Shade is a forward thinking Production Company relentlessly pushing the boundaries in every thing we do.

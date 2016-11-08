@@ -2,9 +2,10 @@
 title: Steve Geddes
 date: 2016-10-01 11:30:00 Z
 position: 5
-excerpt: Steven developed an enduring passion for a well-told story while exploring some of the most
+excerpt: Steven developed an enduring passion for a well-told story while exploring
+  some of the most
 role: producer
-profile-image: /uploads/team_steve.jpg
+profile-image: "/uploads/team_steve.jpg"
 layout: team-profile
 ---
 

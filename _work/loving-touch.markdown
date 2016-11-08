@@ -2,7 +2,7 @@
 title: Johnson & Johnson - Loving Touch
 date: 2016-10-01 11:30:00 Z
 position: 11
-thumbnail-image: /uploads/work_thumb_022.jpg
+thumbnail-image: "/uploads/work_thumb_022.jpg"
 video: 118784520
 layout: work-profile
 ---

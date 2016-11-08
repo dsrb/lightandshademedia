@@ -2,7 +2,7 @@
 title: QPP - Campbell's Story
 date: 2016-10-18 04:07:00 Z
 position: 10
-thumbnail-image: /uploads/work_thumb_028.jpg
+thumbnail-image: "/uploads/work_thumb_028.jpg"
 video: 146984629
 layout: work-profile
 ---

@@ -2,9 +2,10 @@
 title: Matt Bamkin
 date: 2016-10-01 11:30:00 Z
 position: 0
-excerpt: A passionate storyteller driven by the power of the moving image, Matt counts himself as
+excerpt: A passionate storyteller driven by the power of the moving image, Matt counts
+  himself as
 role: director
-profile-image: /uploads/team_matt.jpg
+profile-image: "/uploads/team_matt.jpg"
 layout: team-profile
 ---
 

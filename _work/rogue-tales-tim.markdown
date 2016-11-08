@@ -2,7 +2,7 @@
 title: James Squire - Rogue Tales 'Tim Kill'
 date: 2016-10-01 11:30:00 Z
 position: 15
-thumbnail-image: /uploads/work_thumb_007.jpg
+thumbnail-image: "/uploads/work_thumb_007.jpg"
 video: 88722001
 layout: work-profile
 ---

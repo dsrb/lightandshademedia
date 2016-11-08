@@ -2,7 +2,7 @@
 title: Brisbane Marketing - Discover Brisbane
 date: 2016-10-18 03:59:00 Z
 position: 0
-thumbnail-image: /uploads/work_thumb_024.jpg
+thumbnail-image: "/uploads/work_thumb_024.jpg"
 video: 179134359
 layout: work-profile
 ---

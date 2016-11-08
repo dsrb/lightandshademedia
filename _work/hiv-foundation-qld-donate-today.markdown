@@ -2,7 +2,7 @@
 title: HIV Foundation QLD - By 2020
 date: 2016-10-01 11:30:00 Z
 position: 3
-thumbnail-image: /uploads/work_thumb_003.jpg
+thumbnail-image: "/uploads/work_thumb_003.jpg"
 video: 164208497
 layout: work-profile
 ---

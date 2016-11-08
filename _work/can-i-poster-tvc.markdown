@@ -2,7 +2,7 @@
 title: Key Assets - Can I Foster
 date: 2016-10-01 11:30:00 Z
 position: 4
-thumbnail-image: /uploads/work_thumb_002.jpg
+thumbnail-image: "/uploads/work_thumb_002.jpg"
 video: 162459295
 layout: work-profile
 ---

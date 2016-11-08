@@ -2,9 +2,10 @@
 title: Jan Bamkin
 date: 2016-10-01 11:30:00 Z
 position: 8
-excerpt: Jan’s worked in media for the past 20 years and loves being surrounded by the
+excerpt: Jan’s worked in media for the past 20 years and loves being surrounded by
+  the
 role: accounts
-profile-image: /uploads/team_jan.jpg
+profile-image: "/uploads/team_jan.jpg"
 layout: team-profile
 ---
 

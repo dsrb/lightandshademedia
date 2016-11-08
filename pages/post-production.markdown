@@ -1,9 +1,11 @@
 ---
-layout: post-layout
 title: Post Production
-hero-image: /uploads/post-image.jpg
-subheading: Light + Shade’s award winning Post Production facility is an all encompassing offering and is available to clients alongside our overarching production pipeline, also as a stand alone department.
 permalink: "/post-production/"
+layout: post-layout
+hero-image: "/uploads/post-image.jpg"
+subheading: Light + Shade’s award winning Post Production facility is an all encompassing
+  offering and is available to clients alongside our overarching production pipeline,
+  also as a stand alone department.
 ---
 
 It’s a one stop shop dedicated to originality and creativity, telling stories across all film mediums. Our Post department

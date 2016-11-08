@@ -2,9 +2,10 @@
 title: Sean Kennedy
 date: 2016-10-01 11:30:00 Z
 position: 4
-excerpt: Sean has been in the industry since he was a teenager, starting his career as
+excerpt: Sean has been in the industry since he was a teenager, starting his career
+  as
 role: producer
-profile-image: /uploads/team_sean.jpg
+profile-image: "/uploads/team_sean.jpg"
 layout: team-profile
 ---
 

@@ -2,7 +2,7 @@
 title: More Gold Coast
 date: 2016-10-18 04:09:00 Z
 position: 17
-thumbnail-image: /uploads/work_thumb_029.jpg
+thumbnail-image: "/uploads/work_thumb_029.jpg"
 video: 107538521
 layout: work-profile
 ---

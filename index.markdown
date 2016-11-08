@@ -1,4 +1,5 @@
 ---
-layout: home-layout
 title: Light + Shade
+layout: home-layout
 ---
+

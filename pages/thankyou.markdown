@@ -1,5 +1,6 @@
 ---
-layout: thankyou-profile
 title: Thank You
 permalink: "/thankyou/"
+layout: thankyou-profile
 ---
+

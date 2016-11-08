@@ -2,9 +2,10 @@
 title: Aaron Bottero
 date: 2016-10-01 11:30:00 Z
 position: 10
-excerpt: Aaron comes from a lifestyle and adventure background, having traversed the globe filming a variety
+excerpt: Aaron comes from a lifestyle and adventure background, having traversed the
+  globe filming a variety
 role: cameraman
-profile-image: /uploads/team_aaron.jpg
+profile-image: "/uploads/team_aaron.jpg"
 layout: team-profile
 ---
 
