@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-position: 4
+position: 3
 layout: about-layout
 hero-image: "/uploads/about-image.jpg"
 heading: We are passionate<br>story tellers,<br>driven to create<br>powerful films.

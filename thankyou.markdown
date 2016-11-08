@@ -1,7 +1,7 @@
 ---
 title: Thank You
 permalink: "/thankyou/"
-position: 2
+position: 6
 layout: thankyou-profile
 ---
 
