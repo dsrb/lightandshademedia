@@ -1,0 +1,9 @@
+@mixin transition ($property, $speed, $effect) {
+    -webkit-transition: $property, $speed, $effect;
+    transition: $property, $speed, $effect;
+}
+
+%no-spacing {
+    padding: 0;
+    margin: 0;
+}

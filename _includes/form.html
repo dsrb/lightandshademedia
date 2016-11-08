@@ -1,0 +1,55 @@
+<div class="form-page-wrapper">
+    <h1>Get In Touch</h1>
+    <form id="contact-form">
+      <div>
+          <input type="text" id="inputName" placeholder="Name" name="name">
+      </div>
+      <div>
+          <input type="email" id="inputEmail" placeholder="Email" name="email">
+      </div>
+      <div>
+          <input type="subject" id="inputSubject" placeholder="Subject" name="subject">
+      </div>
+      <div>
+        <textarea id="inputMessage" rows="7" placeholder="Leave Enquiry" name="message"></textarea>
+      </div>
+      <div>
+        <button id="form-submit" type="submit" value="Send">Submit</button>
+          <div class="alert alert-danger submit-fail display-none"><p>Please fill in all the fields.</p></div>
+          <div class="alert alert-success submit-success display-none"><p>Thanks for your enquiry!</p></div>
+      </div>
+    </form>
+</div>
+
+<script>
+
+  $(document).ready(function() {
+    $('#contact-form').submit(function(e) {
+        var name = $('#inputName')
+        var email = $('#inputEmail')
+        var subject = $('#inputSubject')
+        var message = $('#inputMessage')
+      
+        if(name.val() == "" || email.val() == "" || subject.val() == "" || message.val() == "") {
+          $('.submit-fail').fadeToggle(400);
+          return false;
+        }
+        else {
+          $.ajax({
+            method: 'POST',
+            url: '//formspree.io/mayzjjnm',
+            data: $('#contact-form').serialize(),
+            datatype: 'json'
+          });
+          e.preventDefault();
+          $(this).get(0).reset();
+          $('.submit-success').fadeToggle(400);
+        }
+      });
+    
+    $('.submit-fail, .submit-success').click(function() {
+      $(this).hide();
+    })
+  });
+
+</script>

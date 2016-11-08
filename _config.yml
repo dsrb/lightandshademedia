@@ -1,0 +1,51 @@
+name: Light + Shade
+markdown: redcarpet
+highlighter: pygments
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+include: ['_pages']
+
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+  work:
+    title: Work
+    output: true
+    permalink: work  
+  team:
+    title: Team
+    output: true
+    permalink: work
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: work
+  values:
+    permalink: "/work/:title/"
+    thumbnail-image:
+    video:
+    layout: work-profile
+- scope:
+    path: ''
+    type: team
+  values:
+    permalink: "/team/:title/"
+    excerpt:
+    role: 
+    profile-image: 
+    layout: team-profile
+
+baseurl: http://lightandshade.dsrb.com.au/
+email: info@lightandshademedia.com.au
+description: Light and Shade is a Brisbane based production company composed of an creative bunch of Directors, Cinematographers, Producers, Motion Designers and Editors.
+office-brisbane: HEAD OFFICE - 24 Edmonstone Road, Bowen Hills QLD 4006
+office-sydney: SYDNEY - 2/414 Botany Rd, Beaconsfield NSW 2015
+office-melbourne: MELBOURNE - 9 Sedgman Street, Brunswick East VIC 3057

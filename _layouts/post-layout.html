@@ -1,0 +1,36 @@
+<div class="m-scene" id="main">
+    <div class="m-header scene_element scene_element--fadeinup">
+
+        {% include header.html %}
+
+            <div class="post-video-wrapper">
+                <div class="video-wrapper-mobile-post">
+                    <video autoplay loop id="homepage-video" muted>
+                        <source src="uploads/fullscreen-post.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+
+        <div class="post-video-site-wrapper">
+
+                <main class="page-layout-wrapper">
+                    <div class="row">
+                        <div class="col-2">
+                            <h3>{{ page.subheading }}</h3>
+                        </div>
+                        <div class="col-3">
+                            {{ content }}
+                        </div>
+                    </div>
+
+                </main>
+
+            {% include scripts.html %}
+            {% include google-maps.html %}
+            {% include contact.html %}
+            {% include footer.html %}
+
+        </div>
+
+    </div>
+</div>

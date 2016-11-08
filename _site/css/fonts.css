@@ -1,0 +1,51 @@
+@font-face {
+	font-family: 'MaisonNeue-Medium';
+	src: url('../fonts/MaisonNeue-Medium_gdi.eot');
+	src: url('../fonts/MaisonNeue-Medium_gdi.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/MaisonNeue-Medium_gdi.woff') format('woff'),
+		url('../fonts/MaisonNeue-Medium_gdi.ttf') format('truetype'),
+		url('../fonts/MaisonNeue-Medium_gdi.svg#MaisonNeue-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-25CA;
+}
+
+@font-face {
+    font-family: 'MaisonNeue-Light';
+    src: url('../fonts/MaisonNeue-Light_gdi.eot');
+    src: url('../fonts/MaisonNeue-Light_gdi.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MaisonNeue-Light_gdi.woff') format('woff'),
+        url('../fonts/MaisonNeue-Light_gdi.ttf') format('truetype'),
+        url('../fonts/MaisonNeue-Light_gdi.svg#MaisonNeue-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-25CA;
+}
+
+@font-face {
+    font-family: 'Bau-Bold';
+    src: url('../fonts/Bau-Bold_gdi.eot');
+    src: url('../fonts/Bau-Bold_gdi.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Bau-Bold_gdi.woff') format('woff'),
+        url('../fonts/Bau-Bold_gdi.ttf') format('truetype'),
+        url('../fonts/Bau-Bold_gdi.svg#Bau-Bold') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-25CA;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../fonts/BebasNeue_gdi.eot');
+    src: url('../fonts/BebasNeue_gdi.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BebasNeue_gdi.woff') format('woff'),
+        url('../fonts/BebasNeue_gdi.ttf') format('truetype'),
+        url('../fonts/BebasNeue_gdi.svg#BebasNeue') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-25CA;
+}

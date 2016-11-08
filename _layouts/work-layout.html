@@ -1,0 +1,32 @@
+<div class="m-scene" id="main">
+    <div class="m-header scene_element scene_element--fadeindown">
+
+        {% include header.html %}
+
+            <main class="work-layout-wrapper">
+
+                <div class="row no-spacing">
+                    {% assign sorted_work = site.work | sort:"position" %}
+                    {% for work in sorted_work %}
+                        <div class="col-8 no-spacing">
+                            <div class="work-layout-hover">
+                                <a href="{{ work.url }}">
+                                    <img src="{{ work.thumbnail-image }}" alt="{{ work.title }}">
+                                    <h2>{{ work.title }}</h2>
+                                </a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+
+                <a class="work-layout-see-more" href="https://vimeo.com/170107553" target="_blank"><h1>Want To See More?</h1></a>
+
+            </main>
+
+        {% include scripts.html %}
+        {% include google-maps.html %}
+        {% include contact.html %}
+        {% include footer.html %}
+
+    </div>
+</div>

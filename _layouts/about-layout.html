@@ -1,0 +1,34 @@
+<div class="m-scene" id="main">
+    <div class="m-header scene_element scene_element--fadeinleft">
+
+            {% include header.html %}
+
+            <div class="page-layout-hero-image">
+                <div class="page-layout-hero-wrapper">
+                    <h1>{{ page.heading }}</h1>
+                    <img src="{{ page.hero-image }}">
+                </div>
+            </div>
+
+            <main class="page-layout-wrapper">
+                <div class="row">
+                    <div class="col-2">
+                        <h3>{{ page.subheading }}</h3>
+                    </div>
+                    <div class="col-3">
+                        {{ content }}
+                    </div>
+                </div>
+
+            </main>
+
+        {% include scripts.html %}
+        {% include google-maps.html %}
+        {% include form.html %}
+        {% include contact.html %}
+        {% include footer.html %}
+
+    </div>
+</div>
+
+

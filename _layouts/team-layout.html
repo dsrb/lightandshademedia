@@ -1,0 +1,40 @@
+<div class="m-scene" id="main">
+    <div class="m-header scene_element scene_element--fadeinright">
+
+        {% include header.html %}
+
+            <div class="page-layout-hero-image">
+                <div class="page-layout-hero-wrapper">
+                    <h1>{{ page.heading }}</h1>
+                    <img src="{{ page.hero-image }}">
+                </div>
+            </div>
+
+            <main class="team-layout-wrapper">
+
+                <h1>{{ page.title }}</h1>
+                <div class="row">
+                    {% assign sorted_team = site.team | sort:"position" %}
+                    {% for team in sorted_team %}
+                        <div class="col-8">
+                            <a href="{{ team.url }}">
+                                <img src="{{ team.profile-image }}" alt="{{ team.title }}">
+                            </a>
+                            <div class="team-layout-descriptions">
+                                <h2>{{ team.title }}</h2>
+                                <h3>{{ team.role }}</h3>
+                                <p>{{ team.excerpt }}<a class="team-layout-read-more" href="{{ team.url }}">(Read More)</a></p>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+
+            </main>
+
+        {% include scripts.html %}
+        {% include google-maps.html %}
+        {% include contact.html %}
+        {% include footer.html %}
+
+    </div>
+</div>

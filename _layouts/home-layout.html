@@ -1,0 +1,55 @@
+<div class="m-scene" id="main">
+    <div class="m-header scene_element scene_element--fadein">
+
+        {% include home-header.html %}
+
+            <div class="fullscreen-menu">
+                <div class="fullscreen-nav">
+                    <div class="fullscreen-top">
+                        <a href="work">Work</a>
+                    </div>
+                    <div class="fullscreen-bottom">
+                        <a href="post-production">Post Production</a>
+                    </div>
+                    <div class="fullscreen-left">
+                        <a href="about">About</a>
+                    </div>
+                    <div class="fullscreen-right">
+                        <a href="team">Team</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="fullscreen-center-wrap">
+                <div class="fullscreen-center-logo">
+                    <img src="/img/light-shade-logo.svg" alt="Light + Shade Logo">
+                    <a href="promo"><i class="material-icons md-36">&#xE039;</i></a>
+                    <main>
+                        {{ content }}
+                    </main>
+                </div>
+            </div>
+
+            <div class="mobile-contact-left">
+                <ul>
+                    <li><a href="mailto:info@lightandshademedia.com"><i class="material-icons md-36">&#xE0BE;</i></a></li>
+                </ul>
+            </div>
+
+            <div class="mobile-contact-right">
+                <ul>
+                    <li><a href="tel:0733578282"><i class="material-icons md-36">&#xE0B0;</i></a></li>
+                </ul>
+            </div>
+            
+            <div class="video-wrapper-mobile-home">
+                <video autoplay loop id="homepage-video" muted>
+                    <source src="uploads/fullscreen-home.mp4" type="video/mp4">
+                </video>
+            </div>
+
+        {% include scripts.html %}
+        {% include footer.html %}
+
+    </div>
+</div>
