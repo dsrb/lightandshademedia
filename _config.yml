@@ -47,7 +47,7 @@ exclude:
 - package.json
 include:
 - _pages
-baseurl: http://lightandshade.dsrb.com.au/
+baseurl: http://lightandshademedia.com/
 email: info@lightandshademedia.com.au
 description: Light and Shade is a Brisbane based production company composed of an
   creative bunch of Directors, Cinematographers, Producers, Motion Designers and Editors.
