@@ -933,7 +933,7 @@ h1, h2, h3, h4, h5 {
     color: #be202d; }
 
 .team-layout-descriptions {
-  height: 15vh; }
+  height: 20vh; }
 
 /* Work Layout */
 .work-layout-wrapper .work-layout-overlay {
@@ -1315,9 +1315,6 @@ h1, h2, h3, h4, h5 {
     font-size: 1.6em; }
   .page-layout-hero-image h1 {
     font-size: 1.4em; }
-  /* Team Layout */
-  .team-layout-descriptions {
-    height: auto; }
   /* Mobile Menu */
   .fullscreen-nav {
     display: none; }
