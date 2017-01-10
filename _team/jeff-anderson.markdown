@@ -1,7 +1,7 @@
 ---
 title: Jeff Anderson
 date: 2016-10-01 11:30:00 Z
-position: 9
+position: 8
 excerpt: Jeff is a filmmaker, editor + photographer. Obsessed with creating stories
   of all mediums and
 role: director / editor
