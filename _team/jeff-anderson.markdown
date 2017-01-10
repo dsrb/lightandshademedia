@@ -1,5 +1,5 @@
 ---
-title: Jeff Anderson
+title: Jeff Andersen Jnr.
 date: 2016-10-01 11:30:00 Z
 position: 8
 excerpt: Jeff is a filmmaker, editor + photographer. Obsessed with creating stories
