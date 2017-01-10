@@ -1,7 +1,7 @@
 ---
 title: Sean Kennedy
 date: 2016-10-01 11:30:00 Z
-position: 5
+position: 2
 excerpt: Sean has been in the industry since he was a teenager, starting his career
   as
 role: producer

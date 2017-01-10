@@ -1,7 +1,7 @@
 ---
 title: Pete Christie
 date: 2016-10-01 11:30:00 Z
-position: 4
+position: 5
 excerpt: With a varied post production career spanning 15 years, Pete has become one
   of Queensland’s
 role: head of post
