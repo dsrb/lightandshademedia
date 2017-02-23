@@ -5,10 +5,10 @@ collections:
   posts:
     title: Posts
     output: true
-  directors:
+  team:
     title: Team
     output: true
-    permalink: work
+    permalink: team
   uploads:
     title: Uploads
     output: false
