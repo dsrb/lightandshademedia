@@ -14,6 +14,7 @@
 
                 <h1 id="team-top">{{ page.title }}</h1>
                 <div class="row">
+                    {% assign sorted_team = site.team | sort:"position" %}
                     {% for team in site.team %}
                         <div class="col-8">
                             <a href="{{ team.url }}">
