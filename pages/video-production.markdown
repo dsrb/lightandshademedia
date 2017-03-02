@@ -2,19 +2,15 @@
 title: Video Production
 permalink: "/video-production/"
 position: 5
-layout: post-layout
 hero-image: "/uploads/post-image.jpg"
 subheading: Light + Shade’s award winning Post Production facility is an all encompassing
   offering and is available to clients alongside our overarching production pipeline,
   also as a stand alone department.
+layout: post-layout
 ---
 
-It’s a one stop shop dedicated to originality and creativity, telling stories across all film mediums. Our Post department
-blends the latest technology with creative minds, delivering high end executions on every step of the process.
+Light \+ Shade offers a diverse range of services that caters for entire productions or just a tiny part. Video Production services offered include TVC and Content production, through to long and short-form content, as well as Corporate Video Production.
 
-The department guides the journey, easily shaping to exact requirements and deliverables of individual projects. We
-offer offline editing suites, motion design and animation through to online editing and finishing as well as sound design
-and mixing all in house.
+Our model is purposefully different: we stream the production pipeline and keep every aspect of the process in house, which allows Light \+ Shade to deliver high end cinematic standard work for great value across all mediums. Light \+ Shade offers a diverse range of directors right across Australia which allows us to fit the right director to the right production, ensuring that the creative suits the audience, maximising results.
 
-With a commitment to doing things differently and producing work that realizes our clients creative ambitions, we are
-proud to produce well made, beautifully crafted films for all platforms.
+Light \+ Shade’s pursuit of great work makes us driven to be proud of every single piece of work that goes out our doors and we’ll stop at nothing on this creative pursuit.
