@@ -5,7 +5,7 @@ position: 5
 hero-image: "/uploads/post-image.jpg"
 subheading: 'At the heart of our video production company is an intent to be different:
   to create work that means something and has an impact on not just our client''s
-  bottom line, but the lives of the people watching.'
+  bottom line, but on the lives of the people watching.'
 layout: post-layout
 ---
 
