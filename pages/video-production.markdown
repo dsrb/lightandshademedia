@@ -3,9 +3,11 @@ title: Video Production
 permalink: "/video-production/"
 position: 5
 hero-image: "/uploads/post-image.jpg"
-subheading: Light + Shade’s award winning Post Production facility is an all encompassing
-  offering and is available to clients alongside our overarching production pipeline,
-  also as a stand alone department.
+subheading: At the heart of the video production company, is an intent to be different,
+  to create work that means something and has an impact on not just our clients bottom
+  line, but the lives of the people watching. It’s this clear purpose that makes the
+  Light + Shade team proud, that stands us out from the crowd and gives us the motivation
+  to keep pushing the boundaries of storytelling, being purposefully different.
 layout: post-layout
 ---
 
