@@ -2,13 +2,14 @@
 title: Video Production
 permalink: "/video-production/"
 position: 5
-layout: post-layout
 hero-image: "/uploads/post-image.jpg"
-subheading: Light + Shade’s award winning Post Production facility is an all encompassing
-  offering and is available to clients alongside our overarching production pipeline,
-  also as a stand alone department.
+subheading: 'At the heart of our video production company is an intent to be different:
+  to create work that means something and has an impact on not just our client''s
+  bottom line, but on the lives of the people watching.'
+layout: post-layout
 ---
 
+<<<<<<< HEAD
 #Content Production
 
 Light + Shade’s Content Production has delved into the human experience and allowed consumers across a diverse range of products to engage with brands on a personal level. With a plethora of content being produced across the globe, Light + Shade approaches our content with a clear goal in mind, to stand out from the crowd. It’s essential that content is original, with thought-provoking narratives that make audiences walk away with a feeling and a connection to something new. Our content directors come from a mixed background of Advertising and Documentary; a blend of skillsets that enable them to see a story that connects while keeping messages on brand, together delivering high-end and high impact results.
@@ -36,3 +37,10 @@ Technology never stops, and Light + Shade prides itself on being there on the fr
 Aerial filming has recently been changed forever by the introduction of Drones. Light + Shade has full CASA accredited pilots capable of flying drones of any size with payloads of up to 20 kilograms. To complement this, the traditional use of helicopters is also available through Light + Shade, from simple out-of-the-door shots to using the Cineflex gimbal system for high-end film production.
 
 With the addition of new collaborators, we now offer stills photography through the addition of several Directors and Cinematographers that began their careers and specialise in stills. Produced by our in-house producers and available alongside our film production pipeline or as a standalone offering, the Stills component complements Light + Shade’s existing business, and positions us as a truly comprehensive media house. Photography offered spans advertising, corporate and magazine with a full suite of re-touching and finishing also available.
+=======
+Light \+ Shade offers a diverse range of services that caters for entire productions or just a tiny part. Video Production services offered include TVC and Content production, through to long and short-form content, as well as Corporate Video Production.
+
+Our model is purposefully different: we stream the production pipeline and keep every aspect of the process in house, which allows Light \+ Shade to deliver high end cinematic standard work for great value across all mediums. Light \+ Shade offers a diverse range of directors right across Australia which allows us to fit the right director to the right production, ensuring that the creative suits the audience, maximising results.
+
+Light \+ Shade’s pursuit of great work makes us driven to be proud of every single piece of work that goes out our doors, and we’ll stop at nothing on this creative pursuit. Our intent to be different, to stand out from the crowd, and to go above and beyond to make a positive difference in the lives of others, are what gives us the motivation to keep pushing the boundaries of storytelling.
+>>>>>>> 64a2d760cdb8fa6a1570a25a236de39e88c80024
