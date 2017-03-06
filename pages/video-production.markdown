@@ -19,17 +19,17 @@ Light + Shade’s long and short form programming has been broadcasted to audien
 
 Light + Shade’s Television Commercial Production spans many different genres, from dramatic through to tech based, human narrative and comedy. Our production pipeline is optimised for large resolution up to 8K and can deliver to any format required on any medium. From Pre-Production through to Post Production, every aspect is carried out under the one roof through well developed and maintained processes. 
 
-###Corporate Video Production
+##Corporate Video Production
 
 Corporate Video Production has become a great communication tool for companies wishing to reach their customers or staff just about anywhere. Light + Shade’s focus is to guide companies through the production process, being upfront and open with communication to ensure all stakeholders are fully informed along the creative journey. With an aim to produce original, thought provoking pieces for clients, we handle every aspect of the production. This enables us to deliver corporate video production to our clients that is not just a piece of media, but one that reaches and engages with their audience, delivering strong outcomes.
 
-##Our Journey in Video Production: From Brisbane to Melbourne and Sydney
+###Our Journey in Video Production: From Brisbane to Melbourne and Sydney
 
 Light + Shade started from Humble beginnings in Brisbane. Founders and Directors Josh Zaini and Matt Bamkin came from a Television Background and started a company that took their storytelling experience and applied it to narrative-based advertising. From there the company grew and moved into more traditional TVC production, and shortly after into long form TV. With a strong development and creative focus, the pair pushed the business to ensure that everything that Light + Shade produced reached its maximum potential. Light + Shade has now been running for over five years and has been based in its new headquarters in Bowen Hills for two. All under the one roof, Light + Shade operates its full in-house Production work flow, built by some of the best creative, production and tech staff to offer clients a one stop shop for all their Video Production needs.
 
 With success in Brisbane, Light + Shade spread its wings to Melbourne and Sydney. This move was not driven by any mission to become a big business, but rather to seek the highest possible standards of work and collaborators in Australia. Now with offices and production facilities in all the capital cities down Australia’s east coast, Light + Shade is able to offer agencies, networks and direct clients with local, personalised service and production, along with access to a huge array of directors. With the pursuit of producing great original work in mind, we are on a nationwide search for the best people to collaborate with, and to produce well-executed and talked about communications that all stakeholders can be proud of.
 
-##Our use of technologies and complementary offerings
+###Our use of technologies and complementary offerings
 
 Technology never stops, and Light + Shade prides itself on being there on the frontiers of technological advancement. In all the work we produce, new technologies are learned and incorporated to suit each project, from the initial creative to the camera department and into post, we never stop pushing, keeping our clients on the cutting edge. With this push, Light + Shade are now proud to offer Virtual and Augmented reality in house. 
 
