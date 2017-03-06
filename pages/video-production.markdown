@@ -3,23 +3,21 @@ title: Video Production
 permalink: "/video-production/"
 position: 5
 hero-image: "/uploads/post-image.jpg"
-subheading: 'At the heart of our video production company is an intent to be different:
-  to create work that means something and has an impact on not just our client''s
-  bottom line, but on the lives of the people watching.'
+subheading: INSERT QUOTE FOR PAGE HERE
 layout: post-layout
 ---
 
-##Content Production
+###Content Production
 
 Light + Shade’s Content Production has delved into the human experience and allowed consumers across a diverse range of products to engage with brands on a personal level. With a plethora of content being produced across the globe, Light + Shade approaches our content with a clear goal in mind, to stand out from the crowd. It’s essential that content is original, with thought-provoking narratives that make audiences walk away with a feeling and a connection to something new. Our content directors come from a mixed background of Advertising and Documentary; a blend of skillsets that enable them to see a story that connects while keeping messages on brand, together delivering high-end and high impact results.
 
 Light + Shade’s long and short form programming has been broadcasted to audiences right across the world, both through TV and online platforms. With a professional purpose to produce programs that have heart and jeopardy, the team continues to develop in-house, as well as collaborate with producers of all shapes and sizes, to seek the most interesting and diverse stories from across Australia and the World. 
 
-##TV Commercial Video Production
+###TV Commercial Video Production
 
 Light + Shade’s Television Commercial Production spans many different genres, from dramatic through to tech based, human narrative and comedy. Our production pipeline is optimised for large resolution up to 8K and can deliver to any format required on any medium. From Pre-Production through to Post Production, every aspect is carried out under the one roof through well developed and maintained processes. 
 
-##Corporate Video Production
+###Corporate Video Production
 
 Corporate Video Production has become a great communication tool for companies wishing to reach their customers or staff just about anywhere. Light + Shade’s focus is to guide companies through the production process, being upfront and open with communication to ensure all stakeholders are fully informed along the creative journey. With an aim to produce original, thought provoking pieces for clients, we handle every aspect of the production. This enables us to deliver corporate video production to our clients that is not just a piece of media, but one that reaches and engages with their audience, delivering strong outcomes.
 
