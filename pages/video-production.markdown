@@ -9,7 +9,7 @@ subheading: 'At the heart of our video production company is an intent to be dif
 layout: post-layout
 ---
 
-#Content Production
+##Content Production
 
 Light + Shade’s Content Production has delved into the human experience and allowed consumers across a diverse range of products to engage with brands on a personal level. With a plethora of content being produced across the globe, Light + Shade approaches our content with a clear goal in mind, to stand out from the crowd. It’s essential that content is original, with thought-provoking narratives that make audiences walk away with a feeling and a connection to something new. Our content directors come from a mixed background of Advertising and Documentary; a blend of skillsets that enable them to see a story that connects while keeping messages on brand, together delivering high-end and high impact results.
 
