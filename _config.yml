@@ -38,7 +38,8 @@ defaults:
     role: 
     profile-image: 
     profile-work:
-    - image: 
+    - id:
+      image: 
       number: 
     layout: team-profile
 name: Light + Shade
