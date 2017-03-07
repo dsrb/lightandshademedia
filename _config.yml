@@ -36,11 +36,10 @@ defaults:
     permalink: "/team/:title/"
     excerpt: 
     role: 
-    profile-image:
+    profile-image: 
     profile-work:
-      -
-        image:
-        number:
+    - image: 
+      number: 
     layout: team-profile
 name: Light + Shade
 markdown: redcarpet
