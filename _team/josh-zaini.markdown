@@ -6,6 +6,10 @@ excerpt: Starting young in the media industry, Josh has had a diverse and intere
   career to
 role: director
 profile-image: "/uploads/team_josh.jpg"
+profile-video-image:
+- "/uploads/Screen%20Shot%202017-02-21%20at%203.36.24%20pm.png"
+profile-video-number:
+- 196885914
 layout: team-profile
 ---
 
