@@ -38,7 +38,7 @@ defaults:
     role: 
     profile-image: 
     profile-work:
-    - id:
+    - id: 
       image: 
       number: 
     layout: team-profile
