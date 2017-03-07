@@ -37,6 +37,10 @@ defaults:
     excerpt: 
     role: 
     profile-image: 
+    profile-video-image:
+    -
+    profile-video-number:
+    -
     layout: team-profile
 name: Light + Shade
 markdown: redcarpet
