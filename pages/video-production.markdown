@@ -3,13 +3,15 @@ title: Video Production
 permalink: "/video-production/"
 position: 5
 hero-image: "/uploads/post-image.jpg"
-subheading: INSERT QUOTE FOR PAGE HERE
+subheading: 'Light + Shade’s Content Production has delved into the human experience
+  and allowed consumers across a diverse range of products to engage with brands on
+  a personal level. '
 layout: post-layout
 ---
 
 ###Content Production
 
-Light + Shade’s Content Production has delved into the human experience and allowed consumers across a diverse range of products to engage with brands on a personal level. With a plethora of content being produced across the globe, Light + Shade approaches our content with a clear goal in mind, to stand out from the crowd. It’s essential that content is original, with thought-provoking narratives that make audiences walk away with a feeling and a connection to something new. Our content directors come from a mixed background of Advertising and Documentary; a blend of skillsets that enable them to see a story that connects while keeping messages on brand, together delivering high-end and high impact results.
+With a plethora of content being produced across the globe, Light + Shade approaches our content with a clear goal in mind, to stand out from the crowd. It’s essential that content is original, with thought-provoking narratives that make audiences walk away with a feeling and a connection to something new. Our content directors come from a mixed background of Advertising and Documentary; a blend of skillsets that enable them to see a story that connects while keeping messages on brand, together delivering high-end and high impact results.
 
 Light + Shade’s long and short form programming has been broadcasted to audiences right across the world, both through TV and online platforms. With a professional purpose to produce programs that have heart and jeopardy, the team continues to develop in-house, as well as collaborate with producers of all shapes and sizes, to seek the most interesting and diverse stories from across Australia and the World. 
 
