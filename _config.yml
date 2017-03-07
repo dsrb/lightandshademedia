@@ -36,8 +36,8 @@ defaults:
     permalink: "/team/:title/"
     excerpt: 
     role: 
-    profile-image:
-    profile-work:
+    profile-image: 
+    profile-work: 
     layout: team-profile
 name: Light + Shade
 markdown: redcarpet
