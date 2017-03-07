@@ -1,5 +1,8 @@
 {% include team-back.html %}
 
+{% include scripts.html %}
+
+
     <main class="page-layout-wrapper">
 
         <div class="row">
@@ -10,7 +13,7 @@
                 <h2>{{ page.title }}</h2>
                 <h3>{{ page.role }}</h3>
                 <p>{{ content }}</p>
-                    {% for team in site.team %}
+                    {% for profile-video in page.profile-video-image %}
                     <div class="col-8">
                         <img class="play" src="{{ page.profile-video-image }}">
                         <div class="overlay">
@@ -396,35 +399,28 @@
         return (window.Froogaloop = window.$f = Froogaloop);
 
     })();
+    
+    // Initiate FitVid.js
+    $('.video-container').fitVids();
 
+    // Iframe/player variables
+    var iframe = $('#video')[0];
+    var player = $f(iframe);
 
+    // Open on play
+    $('.play').click(function(){
+      $('.overlay').css('left', 0)
+      $('.overlay').addClass('show')
+      player.api("play");
+    })
 
-    ////////////////////////////////////////
-    // Our Script 
-    ////////////////////////////////////////
-    $(document).ready(function(){
-      // Initiate FitVid.js
-      $(".video-container").fitVids();
-
-      // Iframe/player variables
-      var iframe = $('#video')[0];
-      var player = $f(iframe);
-
-      // Open on play
-      $('.play').click(function(){
-        $('.overlay').css('left', 0)
-        $('.overlay').addClass('show')
-        player.api("play");
-      })
-
-      // Closes on click outside
-      $('.overlay').click(function(){
-        $('.overlay').removeClass('show')
-        setTimeout(function() {
-          $('.overlay').css('left', '-100%')
-        }, 300);
-        player.api("pause");
-      })
-    });
+    // Closes on click outside
+    $('.overlay').click(function(){
+      $('.overlay').removeClass('show')
+      setTimeout(function() {
+        $('.overlay').css('left', '-100%')
+      }, 300);
+      player.api("pause");
+    })
 
 </script>
