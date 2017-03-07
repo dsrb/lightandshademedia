@@ -9,6 +9,8 @@ profile-image: "/uploads/team_josh.jpg"
 profile-work:
 - image: "/uploads/Screen%20Shot%202017-02-21%20at%203.36.24%20pm.png"
   number: 196885914
+- image: "/uploads/work_thumb_029.jpg"
+  number: 206024794
 layout: team-profile
 ---
 
