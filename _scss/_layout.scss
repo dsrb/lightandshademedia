@@ -970,12 +970,20 @@ section embed {
 }
 
 .video-container {
-    width: 80%;
+    width: 50%;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
+}
+
+.video-thumbnail {
+    min-height: 120px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
 
 .close {
