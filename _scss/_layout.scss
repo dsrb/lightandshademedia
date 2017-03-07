@@ -1158,6 +1158,14 @@ section embed {
         display: none;
     }
 
+    .video-thumbnail {
+        min-height: 450px;
+    }
+
+    .video-container {
+        width: 80%;
+    }
+
 }
 
 @media only screen and (max-width: 768px) {

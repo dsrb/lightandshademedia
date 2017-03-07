@@ -1406,7 +1406,11 @@ section embed {
     padding: 0 15px; }
   /* Video */
   #homepage-video, #post-video {
-    display: none; } }
+    display: none; }
+  .video-thumbnail {
+    min-height: 450px; }
+  .video-container {
+    width: 80%; } }
 
 @media only screen and (max-width: 768px) {
   /* Page Heading */
