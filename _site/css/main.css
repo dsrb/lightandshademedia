@@ -924,6 +924,13 @@ h1, h2, h3, h4, h5 {
     background-color: #be202d;
     opacity: 1; }
 
+.work-thumbnail {
+  min-height: 450px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat; }
+
 /* Team Layout */
 .team-layout-read-more, .work-layout-wrapper .work-layout-see-more, .work-layout-wrapper .work-layout-read-more {
   color: #fff;
@@ -1409,6 +1416,8 @@ section embed {
     display: none; }
   .video-thumbnail {
     min-height: 450px; }
+  .work-thumbnail {
+    min-height: 300px; }
   .video-container {
     width: 80%; } }
 

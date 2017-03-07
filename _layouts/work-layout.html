@@ -11,7 +11,7 @@
                         <div class="col-8 no-spacing">
                             <div class="work-layout-hover">
                                 <a href="{{ work.url }}">
-                                    <img src="{{ work.thumbnail-image }}" alt="{{ work.title }}">
+                                    <div style="background-image: url('{{ work.thumbnail-image }}');" class="work-thumbnail" src="{{ work.thumbnail-image }}" alt="{{ work.title }}"></div>
                                     <h2>{{ work.title }}</h2>
                                 </a>
                             </div>
