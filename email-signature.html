@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Light + Shade - Email Signatures</title>
+</head>
+<body>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/clipboard.js/1.6.0/clipboard.min.js"></script>
+
+<style>
+    .email-signature {
+        width: 30em;
+        margin: 1em 0;
+        border: 2px solid #eee;
+        padding: 1em;
+    }
+    .names-list a {
+        color: #000;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .names-list {
+        width: 30em;
+        margin: 1em 0;
+        border: 2px solid #eee;
+        padding: 1em;
+    }
+    .names-list li {
+        margin: 0.6em 0;
+        padding: 0;
+        list-style: none;
+        content: '+';
+        color: #000;
+        font-size: small;
+        font-family: 'helvetica', sans-serif;
+    }
+</style>
+
+<div>
+
+</div>
+
+<div id="content" class="email-signature">
+    <p>
+        <strong><span class="name" style="font-size: small; font-family: helvetica; color: #be202d;">Name</span></strong><br /><span style="font-size: small; font-family: helvetica;">+ </span><span class="mobile" style="font-size: small; font-family: helvetica;">Mobile</span>
+    </p>
+    <p>
+        <span style="font-size: x-small; font-family: helvetica;"><img title="Logo" src="https://img.siteleaf.com/3yuP210v7jGrPhIVj-Fod1BPrW4=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57fb32999be5f5799083c69e/assets/58bdef4b1f255021f951f223.png" alt="Logo" width="250" height="16" /></span>
+    </p>
+    <p>
+        <span style="font-size: small; font-family: helvetica; color: #be202d;"><strong>+ </strong></span><span style="font-size: x-small; font-family: helvetica;">BRISBANE | SYDNEY | MELBOURNE</span></br>
+        <span style="font-size: small; font-family: helvetica; color: #be202d;"><strong>+ </strong></span><span style="font-size: x-small; font-family: helvetica;">LIGHTANDSHADEMEDIA.COM</span>
+    </p>
+    <hr>
+    <p>
+        <span style="font-size: xx-small; font-family: helvetica; color: #d8d8d8">This message and its attachments are confidential and may contain information which is protected by copyright. It is intended solely for the named addressee. If you are not the authorised recipient (or responsible for delivery of the message to the authorised recipient), you must not use, disclose, print, copy or deliver this message or its attachments to anyone. If you receive this email in error, please contact the sender immediately and permanently delete this message and its attachments from your system.&nbsp;Any content of this message and its attachments that does not relate to the official business of Light and Shade Media Pty Ltd must be taken not to have been sent or endorsed by them. No representation is made that this email or its attachments are without defect or that the contents express views other than those of the sender.</span>
+    </p>
+</div>
+
+<!-- Trigger -->
+<button class="button" data-clipboard-target="#content">Copy To Clipboard</button>
+
+<ul class="names-list">
+    <p>
+        <strong><span style="font-size: small; font-family: helvetica; color: #be202d;">Staff Members</span></strong>
+    </p>
+</ul>
+
+<script>
+    
+    new Clipboard('.button');
+
+        // ID of the Google Spreadsheet
+        var spreadsheetID = "1edTnGHe1dfHzr3g-HJWfRXwVP7_V6bwbM2HNNxwmDik";
+
+        // Make sure it is public or set to Anyone with link can view
+        var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+        $.getJSON(url, function(data) {
+
+        var entry = data.feed.entry;
+
+        //Hide the loading div
+        $('.loader').hide();
+
+        $(entry).each(function(index, data){
+          //Column names are name, age, etc.
+          $('.names-list').append('<li><a href="#" data-id="' + index + '">'+data.gsx$name.$t+'</a></li>');
+        });
+
+        $(".names-list").on("click", "a", function() {
+
+            var id = $(this).attr("data-id");
+
+            var sig = entry[id];
+
+            $(".name").text(sig.title.$t);
+            $(".mobile").text(sig.gsx$mobile.$t).attr("href", "tel:" + sig.gsx$mobile.$t);
+
+        });
+
+    });
+
+</script>
+</script>
+    
+</body>
+</html>
