@@ -38,6 +38,9 @@ defaults:
     role: 
     profile-image:
     profile-work:
+      -
+        image:
+        number:
     layout: team-profile
 name: Light + Shade
 markdown: redcarpet
