@@ -8,8 +8,10 @@ role: director
 profile-image: "/uploads/team_josh.jpg"
 profile-video-image:
 - "/uploads/Screen%20Shot%202017-02-21%20at%203.36.24%20pm.png"
+- "/uploads/Screen%20Shot%202017-02-01%20at%2010.29.43%20am.png"
 profile-video-number:
 - 196885914
+- 206024794
 layout: team-profile
 ---
 
