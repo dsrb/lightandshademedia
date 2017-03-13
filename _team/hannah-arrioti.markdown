@@ -5,6 +5,7 @@ position: 5
 excerpt: Stories are universal, they belong to the human race. Hannah is a director
   indebted to
 role: director
+show-work: 'no'
 profile-image: "/uploads/team_hannah.jpg"
 layout: team-profile
 ---

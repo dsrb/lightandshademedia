@@ -5,6 +5,7 @@ position: 9
 excerpt: Jan’s worked in media for the past 20 years and loves being surrounded by
   the
 role: accounts
+show-work: 'no'
 profile-image: "/uploads/team_jan.jpg"
 layout: team-profile
 ---

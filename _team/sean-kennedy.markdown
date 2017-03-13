@@ -5,6 +5,7 @@ position: 2
 excerpt: Sean has been in the industry since he was a teenager, starting his career
   as
 role: producer
+show-work: 'no'
 profile-image: "/uploads/team_sean.jpg"
 layout: team-profile
 ---

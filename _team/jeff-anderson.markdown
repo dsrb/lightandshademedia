@@ -5,6 +5,7 @@ position: 8
 excerpt: Jeff is a filmmaker, editor + photographer. Obsessed with creating stories
   of all mediums and
 role: director / editor
+show-work: 'no'
 profile-image: "/uploads/team_jeff.jpg"
 layout: team-profile
 ---

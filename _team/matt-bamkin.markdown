@@ -5,6 +5,7 @@ position: 1
 excerpt: A passionate storyteller driven by the power of the moving image, Matt counts
   himself as
 role: director
+show-work: 'no'
 profile-image: "/uploads/team_matt.jpg"
 layout: team-profile
 ---

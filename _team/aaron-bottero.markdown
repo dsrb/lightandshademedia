@@ -5,6 +5,7 @@ position: 7
 excerpt: Aaron comes from a lifestyle and adventure background, having traversed the
   globe filming a variety
 role: cameraman
+show-work: 'no'
 profile-image: "/uploads/team_aaron.jpg"
 layout: team-profile
 ---
