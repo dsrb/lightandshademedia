@@ -5,6 +5,7 @@ position: 4
 excerpt: With a varied post production career spanning 15 years, Pete has become one
   of Queensland’s
 role: head of post
+show-work: 'no'
 profile-image: "/uploads/team_pete.jpg"
 layout: team-profile
 ---
