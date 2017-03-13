@@ -5,6 +5,7 @@ position: 3
 excerpt: Steven developed an enduring passion for a well-told story while exploring
   some of the most
 role: producer
+show-work: 'no'
 profile-image: "/uploads/team_steve.jpg"
 layout: team-profile
 ---
