@@ -5,6 +5,7 @@ position: 0
 excerpt: Starting young in the media industry, Josh has had a diverse and interesting
   career to
 role: director
+show-work: 'yes'
 profile-image: "/uploads/team_josh.jpg"
 profile-work:
 - image: "/uploads/Screen%20Shot%202017-02-21%20at%203.36.24%20pm.png"
