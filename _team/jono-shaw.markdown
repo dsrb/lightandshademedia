@@ -5,6 +5,7 @@ position: 6
 excerpt: Jono graduated from film school over 9 years ago, and since then has been
   so
 role: director & vfx artist
+show-work: 'no'
 profile-image: "/uploads/team_jono.jpg"
 layout: team-profile
 ---
