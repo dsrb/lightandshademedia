@@ -925,7 +925,7 @@ h1, h2, h3, h4, h5 {
     opacity: 1; }
 
 .work-thumbnail {
-  min-height: 450px;
+  min-height: 300px;
   width: 100%;
   background-size: cover;
   background-position: center center;
@@ -1065,7 +1065,7 @@ h1, h2, h3, h4, h5 {
   display: block; }
 
 .no {
-  display: none; }
+  display: none !important; }
 
 /* Form Style */
 *:focus {
