@@ -9,7 +9,7 @@ subheading: LIGHT + SHADE’S VIDEO PRODUCTION CELEBRATES THE HUMAN EXPERIENCE. 
 layout: post-layout
 ---
 
-### Video Production
+###Video Production
 
 At the heart of our video production company is an intent to be different. We strive to create work that means something and has an impact on not just our clients bottom line, but the lives of the people watching. It’s this clear purpose that makes the Light + Shade team proud, that stands us out from the crowd and gives us the motivation to keep pushing the boundaries of storytelling. Our model is purposefully different, streamlining the production pipeline, keeping every aspect of the process in house, allowing Light + Shade to deliver high end cinematic standard work for great value across all mediums. Read on for a more detailed description of our different video production services.
 
