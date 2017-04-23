@@ -3,11 +3,15 @@ title: Video Production
 permalink: "/video-production/"
 position: 5
 hero-image: "/uploads/post-image.jpg"
-subheading: 'Light + Shade’s Content Production has delved into the human experience
-  and allowed consumers across a diverse range of products to engage with brands on
-  a personal level. '
+subheading: LIGHT + SHADE’S VIDEO PRODUCTION CELEBRATES THE HUMAN EXPERIENCE. WE EXCEL
+  IN EVERY PART OF THE PRODUCTION PROCESS, FINE TUNING EACH PROJECT TO HELP OUR CLIENTS
+  ENGAGE WITH THEIR AUDIENCES ON A PERSONAL LEVEL.
 layout: post-layout
 ---
+
+### Video Production
+
+At the heart of our video production company is an intent to be different. We strive to create work that means something and has an impact on not just our clients bottom line, but the lives of the people watching. It’s this clear purpose that makes the Light + Shade team proud, that stands us out from the crowd and gives us the motivation to keep pushing the boundaries of storytelling. Our model is purposefully different, streamlining the production pipeline, keeping every aspect of the process in house, allowing Light + Shade to deliver high end cinematic standard work for great value across all mediums. Read on for a more detailed description of our different video production services.
 
 ###Content Production
 
