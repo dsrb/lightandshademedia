@@ -1,7 +1,7 @@
 ---
 title: James Squire - Rogue Tales
 date: 2016-10-01 11:30:00 Z
-position: 14
+position: 15
 thumbnail-image: "/uploads/work_thumb_012.jpg"
 video: 88838613
 layout: work-profile
