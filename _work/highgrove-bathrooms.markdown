@@ -1,16 +1,13 @@
 ---
-title: James Squire - Rogue Tale 'Jesse Olsen'
+title: Highgrove Bathrooms Branding TVC
 date: 2016-10-01 11:30:00 Z
 position: 16
-thumbnail-image: "/uploads/work_thumb_011.jpg"
-video: 88712802
+thumbnail-image: "/uploads/Screen%20Shot%202017-04-27%20at%202.12.58%20pm.png"
+video: 214960209
 layout: work-profile
 ---
 
-Agency: Publicis Mojo<br>
-Executive Producer: Brendan Thomas<br>
-
-Production Company: Hoodlum<br>
-Director: Dan Marsden<br>
-DOP: Matt Bamkin<br>
-Editor: Rohan Cooper<br>
+Production Company: Light + Shade<br>
+Director/DP: Matt Bamkin<br>
+Producer: Sean Kennedy<br>
+Editor: Pete Christie<br>
