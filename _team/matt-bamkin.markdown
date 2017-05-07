@@ -1,7 +1,7 @@
 ---
 title: Matt Bamkin
 date: 2016-10-01 11:30:00 Z
-position: 1
+position: 3
 excerpt: A passionate storyteller driven by the power of the moving image, Matt counts
   himself as
 role: director
