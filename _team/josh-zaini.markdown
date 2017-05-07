@@ -1,7 +1,7 @@
 ---
 title: Josh Zaini
 date: 2016-10-01 11:30:00 Z
-position: 2
+position: 1
 excerpt: Starting young in the media industry, Josh has had a diverse and interesting
   career to
 role: director

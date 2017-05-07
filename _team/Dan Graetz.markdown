@@ -1,7 +1,7 @@
 ---
 title: Dan Graetz
 date: 2016-10-01 11:30:00 Z
-position: 4
+position: 3
 role: Director / DOP
 show-work: 'no'
 profile-image: "/uploads/team_sean.jpg"
