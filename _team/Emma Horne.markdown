@@ -6,7 +6,7 @@ excerpt: Emma developed an interest for advertising at a young age sporadically 
   for a variety
 role: Production Co-Ordinator
 show-work: 'no'
-profile-image: "/uploads/EMMA_ForWeb.jpg"
+profile-image: "/uploads/EMMA_ForWeb2.jpg"
 layout: team-profile
 ---
 
