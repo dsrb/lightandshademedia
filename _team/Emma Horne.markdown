@@ -3,7 +3,7 @@ title: Emma Horne
 date: 2016-10-01 11:30:00 Z
 position: 5
 excerpt: Emma developed an interest for advertising at a young age sporadically running
-  for a variety of production companies.
+  for a variety
 role: Production Co-Ordinator
 show-work: 'no'
 profile-image: "/uploads/EMMA_ForWeb.jpg"
