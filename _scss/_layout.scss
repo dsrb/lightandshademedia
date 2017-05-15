@@ -1037,6 +1037,15 @@ section embed {
     display: none;
 }
 
+.disable a {
+  pointer-events: none;
+  cursor: default;
+}
+
+.disable i {
+  display: none;
+}
+
 .play-container {
     width: 100%;
 }
