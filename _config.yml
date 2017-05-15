@@ -36,9 +36,9 @@ defaults:
     permalink: "/team/:title/"
     excerpt: 
     role: 
-    show-work:
+    show-work: 
     disable-video: 
-    image-gallery:
+    image-gallery: 
     profile-image: 
     profile-work:
     - image: 

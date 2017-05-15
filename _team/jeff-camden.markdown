@@ -1,14 +1,14 @@
 ---
 title: Jeff Camden
 date: 2017-05-11 22:49:00 Z
-position: 7
+position: 9
 excerpt: With more than 13 years experience as a professional photographer,
 role: Photographer
+disable-video: disable
 profile-image: "/uploads/jeff-camden-headshot.jpg"
 profile-work:
 - image: "/uploads/50cent.jpg"
   number: '01'
-  Key: 
 - image: "/uploads/Alice-Wonderland.jpg"
   number: '02'
 - image: "/uploads/Bigetta-Fashion.jpg"
@@ -46,7 +46,7 @@ profile-work:
   Key: 
 ---
 
-With more than 13 years experience as a professional photographer, Jeff has held staff positions with News Corp & APN as well as an international appointment with Sun Media in Canada. 
+With more than 13 years experience as a professional photographer, Jeff has held staff positions with News Corp & APN as well as an international appointment with Sun Media in Canada.
 
 During his career Jeff has photographed some of the worlds most recognisable people including 50 Cent, Ed Sheeran, Alice Copper, Kim Kardashian, Miranda Kerr and Jennifer Hawkins amongst many others. 
 
