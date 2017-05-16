@@ -1,7 +1,7 @@
 ---
 title: Jono Shaw
 date: 2016-10-01 11:30:00 Z
-position: 8
+position: 9
 excerpt: Jono graduated from film school over 9 years ago, and since then has been
   so
 role: director & vfx artist
