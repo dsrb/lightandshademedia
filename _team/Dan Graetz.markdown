@@ -18,6 +18,8 @@ profile-work:
   number: 217610143
 - image: "/uploads/Screen%20Shot%202017-05-16%20at%202.09.04%20pm.png"
   number: 217609539
+- image: "/uploads/Screen%20Shot%202017-05-16%20at%202.32.40%20pm.png"
+  number: 217613747
 layout: team-profile
 ---
 
