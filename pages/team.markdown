@@ -2,7 +2,7 @@
 title: Team
 permalink: "/team/"
 position: 2
-hero-image: "/uploads/1962253_10152620420940783_7697206597070713261_o%20(1).jpg"
+hero-image: "/uploads/team-image.jpg"
 heading: We are an experienced creative<br>team with a unique blend of<br>passion,
   talent and vision.
 layout: team-layout
