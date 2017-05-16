@@ -3,8 +3,21 @@ title: Dan Graetz
 date: 2016-10-01 11:30:00 Z
 position: 2
 role: Director / DOP
-show-work: 'no'
+show-work: 'yes
+
+'
 profile-image: "/uploads/DAN_ForWeb2%20(1).jpg"
+profile-work:
+- image: "/uploads/Screen%20Shot%202017-05-16%20at%201.57.10%20pm.png"
+  number: 217610570
+- image: "/uploads/Screen%20Shot%202017-05-16%20at%201.59.14%20pm.png"
+  number: 217610448
+- image: 
+  number: 217609760
+- image: "/uploads/Screen%20Shot%202017-05-16%20at%202.05.26%20pm.png"
+  number: 217610143
+- image: "/uploads/Screen%20Shot%202017-05-16%20at%202.09.04%20pm.png"
+  number: 217609539
 layout: team-profile
 ---
 
