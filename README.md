@@ -32,6 +32,11 @@ As this is just a Jekyll project, you can use any of the commands listed in thei
 
 You can easily deploy this site to Siteleaf by pushing any changes directly to Github.
 
-Any updates to master will show in the Siteleaf admin sync.
+Any updates to master will automatically `sync` in the Siteleaf admin. 
 
-From Siteleaf you can preview changes 
+There are two options in the Siteleaf admin for making changes.
+
+1. `Preview Changes`
+2. `Publish Changes`
+
+Meta changes for the site setup are managed through the `config.yml` file.
