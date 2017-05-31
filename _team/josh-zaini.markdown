@@ -25,9 +25,9 @@ layout: team-profile
 
 Starting young in the media industry, Josh has had a diverse and interesting career to date. As an award winning Director and Cinematographer, Josh’s unique skillset has seen him work across the globe on a range of projects.
 
-His career started in documentaries, which included stints in Afghanistan, Africa, Antarctica, Asia, NZ, USA to name a few.
+His career started in documentaries, which included stints in Afghanistan, Africa, Antarctica, Europe, Asia, NZ and the USA.
 
-From rescuing Bears in Romania and coming under rocket fire in Afghanistan, to digging his own bed in the Antarctic snow and dancing with Massaii Warriors in Kenya, the experiences Josh has collected along his journey have moulded him into the filmmaker he is today.
+From rescuing Bears in Romania and coming under rocket fire in Afghanistan, to digging his own bed in the Antarctic snow and dancing with Massaii Warriors in Kenya, all of these experiences have provided Josh with a very unique and creative approach to his filmmaking.
 
 In the last few years Josh has translated his love of story telling and cinematography into the advertising world, where he has created commercials and content for some of the most recognisable brands and agencies around the globe.
 
