@@ -1,7 +1,7 @@
 ---
 title: Steve Geddes
 date: 2016-10-01 11:30:00 Z
-position: 3
+position: 7
 excerpt: Steven developed an enduring passion for a well-told story while exploring
   some of the most
 role: producer
