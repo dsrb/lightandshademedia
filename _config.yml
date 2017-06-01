@@ -38,7 +38,7 @@ defaults:
     role: 
     show-work: 
     disable-video: 
-    image-gallery: 
+    gallery-type: 
     profile-image: 
     profile-work:
     - image: 
