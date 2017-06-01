@@ -9,23 +9,24 @@ show-work: 'yes'
 profile-image: "/uploads/team_matt.jpg"
 profile-work:
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.01.53%20am.png"
-  number: http://vimeo.com/199927133
+  number: http://www.vimeo.com/199927133
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.04.15%20am.png"
-  number: http://vimeo.com/164208497
+  number: http://www.vimeo.com/164208497
 - image: "/uploads/Screen%20Shot%202017-04-27%20at%202.12.58%20pm-e6ef7c.png"
-  number: http://vimeo.com/214960209
+  number: http://www.vimeo.com/214960209
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.09.43%20am.png"
-  number: http://vimeo.com/127454787
+  number: http://www.vimeo.com/127454787
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.11.20%20am.png"
-  number: http://vimeo.com/145106538
+  number: http://www.vimeo.com/145106538
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.14.34%20am.png"
-  number: http://vimeo.com/205355586
+  number: http://www.vimeo.com/205355586
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.17.08%20am.png"
-  number: http://vimeo.com/205355605
+  number: http://www.vimeo.com/205355605
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.18.53%20am.png"
-  number: http://vimeo.com/205353855
+  number: http://www.vimeo.com/205353855
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.21.27%20am.png"
-  number: http://vimeo.com/146985538
+  number: http://www.vimeo.com/146985538
+gallery-type: video
 layout: team-profile
 ---
 
