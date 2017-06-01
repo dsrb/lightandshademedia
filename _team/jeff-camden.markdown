@@ -4,7 +4,7 @@ date: 2017-05-11 22:49:00 Z
 position: 10
 excerpt: With more than 13 years experience as a professional photographer,
 role: Photographer
-disable-video: disable
+disable-video: 
 profile-image: "/uploads/jeff-camden-headshot.jpg"
 profile-work:
 - image: "/uploads/50cent.jpg"
