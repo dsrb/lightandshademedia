@@ -4,6 +4,7 @@ date: 2017-05-11 22:49:00 Z
 position: 10
 excerpt: With more than 13 years experience as a professional photographer,
 role: Photographer
+disable-video: disable
 profile-image: "/uploads/jeff-camden-headshot.jpg"
 profile-work:
 - image: "/uploads/50cent.jpg"
@@ -42,7 +43,6 @@ profile-work:
   number: "/uploads/Bigetta-Fashion.jpg"
 - image: "/uploads/grand-canyon-mule.jpg"
   number: "/uploads/Bigetta-Fashion.jpg"
-  Key: 
 ---
 
 With more than 13 years experience as a professional photographer, Jeff has held staff positions with News Corp & APN as well as an international appointment with Sun Media in Canada.
