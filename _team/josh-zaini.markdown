@@ -9,7 +9,7 @@ show-work: 'yes'
 profile-image: "/uploads/team_josh.jpg"
 profile-work:
 - image: "/uploads/MATT_HALL_FINAL_MASTER_STEREO00.tif"
-  number: http://vimeo.com/217116603
+  number: http://www.vimeo.com/217116603
 - image: "/uploads/GLYCEMIX_30_PRORES0.tif"
   number: http://vimeo.com/186208022
 - image: "/uploads/GMBAD_V3_OVERARCHING_100.tif"
