@@ -9,15 +9,16 @@ show-work: 'yes'
 profile-image: "/uploads/Juju.jpg"
 profile-work:
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%202.58.31%20pm.png"
-  number: http://vimeo.com/207049275
+  number: http://www.vimeo.com/207049275
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.21.27%20am.png"
-  number: http://vimeo.com/146985538
+  number: http://www.vimeo.com/146985538
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%209.02.13%20pm.png"
-  number: http://vimeo.com/168727268
+  number: http://www.vimeo.com/168727268
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%209.06.49%20pm.png"
-  number: http://vimeo.com/161854415
+  number: http://www.vimeo.com/161854415
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%209.03.43%20pm.png"
-  number: http://vimeo.com/150388748
+  number: http://www.vimeo.com/150388748
+gallery-type: video
 ---
 
 The whole is greater than the sum of its parts. That’s the adage that drives 31 year-old director and producer, Julia Holmes. Twelve years ago, Julia fell into the fierce world of broadcast media and instantly loved the frenetic pace and formidable story-telling style. 
