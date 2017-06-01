@@ -26,23 +26,23 @@ defaults:
     type: work
   values:
     permalink: "/work/:title/"
-    thumbnail-image:
-    video:
+    thumbnail-image: 
+    video: 
     layout: work-profile
 - scope:
     path: ''
     type: team
   values:
     permalink: "/team/:title/"
-    excerpt:
-    role:
-    show-work:
-    disable-video:
-    image-gallery:
-    profile-image:
+    excerpt: 
+    role: 
+    show-work: 
+    disable-video: 
+    image-gallery: 
+    profile-image: 
     profile-work:
-    - image:
-    number:
+    - image: 
+    number: 
     layout: team-profile
 name: Light + Shade
 markdown: redcarpet
