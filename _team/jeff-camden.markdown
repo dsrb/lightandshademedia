@@ -4,13 +4,12 @@ date: 2017-05-11 22:49:00 Z
 position: 10
 excerpt: With more than 13 years experience as a professional photographer,
 role: Photographer
-disable-video: 
 profile-image: "/uploads/jeff-camden-headshot.jpg"
 profile-work:
 - image: "/uploads/50cent.jpg"
-  number: '01'
+  number: "/uploads/50cent.jpg"
 - image: "/uploads/Alice-Wonderland.jpg"
-  number: '02'
+  number: "/uploads/Alice-Wonderland.jpg"
 - image: "/uploads/Bigetta-Fashion.jpg"
   number: '03'
 - image: "/uploads/bikini-model-drone.jpg"
