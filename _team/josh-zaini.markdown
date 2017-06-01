@@ -9,17 +9,17 @@ show-work: 'yes'
 profile-image: "/uploads/team_josh.jpg"
 profile-work:
 - image: "/uploads/MATT_HALL_FINAL_MASTER_STEREO00.tif"
-  number: https://vimeo.com/217116603
+  number: http://vimeo.com/217116603
 - image: "/uploads/GLYCEMIX_30_PRORES0.tif"
-  number: https://vimeo.com/186208022
+  number: http://vimeo.com/186208022
 - image: "/uploads/GMBAD_V3_OVERARCHING_100.tif"
-  number: https://vimeo.com/179134359
+  number: http://vimeo.com/179134359
 - image: "/uploads/LSPAC17-01_Overall_30_3%20(0-00-06-09).png"
-  number: https://vimeo.com/217116373
+  number: http://vimeo.com/217116373
 - image: "/uploads/Screen%20Shot%202017-05-12%20at%2012.00.52%20pm-bbd5ef.png"
-  number: https://vimeo.com/117863014
-- number: https://vimeo.com/146985538
-  image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.21.27%20am.png"
+  number: http://vimeo.com/117863014
+- image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.21.27%20am.png"
+  number: http://vimeo.com/146985538
 layout: team-profile
 ---
 
