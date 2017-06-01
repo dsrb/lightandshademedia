@@ -20,6 +20,7 @@ profile-work:
   number: http://vimeo.com/117863014
 - image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.21.27%20am.png"
   number: http://vimeo.com/146985538
+gallery-type: video
 layout: team-profile
 ---
 
