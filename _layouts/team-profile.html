@@ -18,7 +18,7 @@
                 </div>
                 {% for video in page.profile-work %}
                 <div class="{{ page.disable-video }} col-8 {{ page.show-work }}">
-                  <a href="{{ video.number }}" class="mediabox">
+                  <a href="{{ video.number }}" data-vbtype="iframe" class="mediabox">
                     <div class="video-thumbnail" id="button{{ video.id }}" style="background-image: url('{{ video.image }}');"><i class="material-icons md-36">&#xE039;</i></div>
                   </a>
                 </div>
