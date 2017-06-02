@@ -1,7 +1,7 @@
 ---
 title: Julia Holmes
 date: 2017-05-15 04:36:00 Z
-position: 2
+position: 3
 excerpt: The whole is greater than the sum of its parts.That’s the adage that drives
   31 year-old director and producer.
 role: Director
