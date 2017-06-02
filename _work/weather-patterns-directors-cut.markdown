@@ -1,7 +1,7 @@
 ---
 title: Weather Patterns - Directors Cut
 date: 2017-06-01 23:20:00 Z
-thumbnail-image: "/uploads/Screen%20Shot%202017-06-02%20at%209.09.27%20am.png"
+thumbnail-image: "/uploads/Girl.jpg"
 video: 219634341
 ---
 
