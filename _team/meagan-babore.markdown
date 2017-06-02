@@ -2,8 +2,8 @@
 title: Meagan Babore
 date: 2017-05-15 04:33:00 Z
 position: 4
-excerpt: Meagan is the end result of what you get when you mix - intelligence, initiative,
-  supreme organisational skills & a keen eye for detail.
+excerpt: Meagan is the end result, when you mix - intelligence, initiative, supreme
+  organisational skills & a keen eye for detail.
 role: Producer
 show-work: 'no'
 profile-image: "/uploads/Megan_ForWeb.jpg"
