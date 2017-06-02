@@ -1,7 +1,7 @@
 ---
 title: Dan Graetz
 date: 2016-10-01 11:30:00 Z
-position: 2
+position: 5
 role: Director / DOP
 show-work: 'yes'
 profile-image: "/uploads/DAN_ForWeb2%20(1).jpg"
