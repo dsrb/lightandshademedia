@@ -14,15 +14,3 @@ Meagan is the end result of what you get when you mix - intelligence, initiative
 A strong advocator and educator within the Brisbane arts scene, Meagan found herself drawn to Production, and after some consideration, made the best decision of her life and jumped at an opportunity to get into the TVC industry. Transferring a number of skills from her previous professional  life, Meagan was quick to cement herself as a leading Freelance Production Manager, sought out by a numbers of local and interstate production companies, leading her to work alongside, and learn from some of the best Producers in the country.
 
 Having recently come on board as Light and Shade’s TVC and Content Producer, Meagan still harbours a huge passion for learning and evolving her craft and building on an already strong foundation.
-
-
-
-
-
-
-
-
-
-
-
-
