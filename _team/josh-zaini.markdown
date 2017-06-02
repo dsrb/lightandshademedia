@@ -6,7 +6,8 @@ excerpt: Starting young in the media industry, Josh has had a diverse and intere
   career to
 role: director / dop
 show-work: 'yes'
-profile-image: "/uploads/team_josh.jpg"
+gallery-type: video
+profile-image: "/uploads/Josh_ForWeb.jpg"
 profile-work:
 - image: "/uploads/MATT_HALL_FINAL_MASTER_STEREO00.tif"
   number: http://www.vimeo.com/217116603
@@ -15,12 +16,11 @@ profile-work:
 - image: "/uploads/GMBAD_V3_OVERARCHING_100.tif"
   number: http://www.vimeo.com/179134359
 - image: "/uploads/LSPAC17-01_Overall_30_3%20(0-00-06-09).png"
-  number: http://www.vimeo.com/217116373
-- image: "/uploads/Screen%20Shot%202017-05-12%20at%2012.00.52%20pm-bbd5ef.png"
-  number: http://www.vimeo.com/117863014
-- image: "/uploads/Screen%20Shot%202017-05-15%20at%2011.21.27%20am.png"
-  number: http://www.vimeo.com/146985538
-gallery-type: video
+  number: https://vimeo.com/219634341
+- image: "/uploads/Screen%20Shot%202017-06-02%20at%204.53.23%20pm.png"
+  number: https://vimeo.com/219625746
+- image: "/uploads/Screen%20Shot%202017-06-02%20at%204.50.50%20pm.png"
+  number: https://vimeo.com/219625926
 layout: team-profile
 ---
 
