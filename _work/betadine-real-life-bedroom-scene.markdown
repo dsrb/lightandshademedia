@@ -2,7 +2,7 @@
 title: Betadine Real Life - Bedroom Scene
 date: 2017-06-01 23:02:00 Z
 position: 0
-thumbnail-image: "/uploads/Screen%20Shot%202017-06-02%20at%209.05.26%20am.png"
+thumbnail-image: "/uploads/Screen%20Shot%202017-06-02%20at%2012.16.16%20pm.png"
 video: 219625746
 ---
 
