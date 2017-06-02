@@ -1,7 +1,7 @@
 ---
 title: Betadine Studio
 date: 2017-06-01 23:16:00 Z
-thumbnail-image: "/uploads/Screen%20Shot%202017-06-02%20at%209.08.11%20am.png"
+thumbnail-image: "/uploads/Screen%20Shot%202017-06-02%20at%2012.23.47%20pm.png"
 video: 219625648
 ---
 
