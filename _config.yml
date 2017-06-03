@@ -26,23 +26,23 @@ defaults:
     type: work
   values:
     permalink: "/work/:title/"
-    thumbnail-image: 
-    video: 
+    thumbnail-image:
+    video:
     layout: work-profile
 - scope:
     path: ''
     type: team
   values:
     permalink: "/team/:title/"
-    excerpt: 
-    role: 
-    show-work: 
-    disable-video: 
-    image-gallery: 
-    profile-image: 
+    excerpt:
+    role:
+    show-work:
+    disable-video:
+    image-gallery:
+    profile-image:
     profile-work:
-    - image: 
-    number: 
+    - image:
+    number:
     layout: team-profile
 name: Light + Shade
 markdown: redcarpet
@@ -57,6 +57,7 @@ baseurl: http://lightandshademedia.com/
 email: info@lightandshademedia.com
 phone: 07 3252 7500
 showreel: 219622725
+home-video:
 description: Light and Shade is a Brisbane based production company composed of an
   creative bunch of Directors, Cinematographers, Producers, Motion Designers and Editors.
 office-brisbane: HEAD OFFICE - 24 Edmonstone Road, Bowen Hills QLD 4006
