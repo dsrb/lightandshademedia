@@ -34,12 +34,12 @@ defaults:
     type: team
   values:
     permalink: "/team/:title/"
-    excerpt:
-    role:
-    show-work:
-    disable-video:
-    image-gallery:
-    profile-image:
+    excerpt: 
+    role: 
+    show-work: 
+    disable-video: 
+    gallery-type: 
+    profile-image: 
     profile-work:
     - image:
     number:
