@@ -6,7 +6,7 @@ hero-image: "/uploads/Video-production%20(1).png"
 heading: LIGHT + SHADE’S<br>VIDEO PRODUCTION<br>CELEBRATES THE<br>HUMAN EXPERIENCE.
 subheading: WE EXCEL IN EVERY PART OF THE PRODUCTION PROCESS, FINE TUNING EACH PROJECT
   TO HELP OUR CLIENTS ENGAGE WITH THEIR AUDIENCES ON A PERSONAL LEVEL.
-layout: team-layout
+layout: about-layout
 ---
 
 ###Video Production
