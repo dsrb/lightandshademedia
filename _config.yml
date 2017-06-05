@@ -53,7 +53,6 @@ exclude:
 - package.json
 include:
 - _pages
-baseurl: http://lightandshademedia.com/
 email: info@lightandshademedia.com
 phone: 07 3252 7500
 showreel: 219622725
