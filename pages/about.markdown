@@ -3,7 +3,7 @@ title: About
 permalink: "/about/"
 position: 3
 hero-image: "/uploads/about-image.jpg"
-heading: We are the storytellers
+heading: We are Light + Shade<br>We are the storytellers
 subheading: We are the modernist vanguard. The explorers of ideas, of story, of new
   frontiers.
 layout: about-layout
