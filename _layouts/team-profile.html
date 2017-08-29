@@ -14,7 +14,7 @@
                     <h2>{{ page.title }}</h2>
                     <h3>{{ page.role }}</h3>
                     <p>{{ content }}</p>
-                    <h3 class="{{ page.show-work }}">{{ page.title | truncatewords: = 1 | remove:'...' }}'s Work</h3>
+                    <h3 class="{{ page.show-work }}">{{ page.title | truncatewords: 1, "" }}'s Work</h3>
                 </div>
                 {% for video in page.profile-work %}
                 <div class="{{ page.disable-video }} col-8 {{ page.show-work }}">
