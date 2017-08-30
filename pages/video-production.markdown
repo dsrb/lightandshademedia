@@ -1,7 +1,6 @@
 ---
 title: Video Production
 permalink: "/video-production/"
-published: false
 position: 5
 hero-image: "/uploads/Video-production%20(1).png"
 heading: LIGHT + SHADE’S<br>VIDEO PRODUCTION<br>CELEBRATES THE<br>HUMAN EXPERIENCE.
