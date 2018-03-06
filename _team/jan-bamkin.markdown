@@ -1,7 +1,7 @@
 ---
 title: Jan Bamkin
 date: 2016-10-01 11:30:00 Z
-position: 9
+position: 10
 excerpt: Jan’s worked in media for the past 20 years and loves being surrounded by
   the
 role: accounts
