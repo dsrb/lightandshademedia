@@ -1,7 +1,7 @@
 ---
 title: Jeff Camden
 date: 2017-05-11 22:49:00 Z
-position: 10
+position: 9
 excerpt: With more than 13 years experience as a professional photographer,
 role: Drone Pilot and Photographer
 show-work: 'yes'
