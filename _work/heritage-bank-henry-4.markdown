@@ -10,3 +10,5 @@ Production Company: Light + Shade
 Director: Kate Halpin
 DP: Matt Bamkin 
 Producer: Meagan Babore
+Producer: Meagan Babore
+Editor: Jono Shaw + Justin Leggereit
