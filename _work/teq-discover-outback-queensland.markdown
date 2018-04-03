@@ -1,7 +1,7 @@
 ---
 title: TEQ - Discover Outback Queensland
 date: 2016-10-18 04:04:00 Z
-position: 27
+position: 28
 thumbnail-image: "/uploads/work_thumb_026.jpg"
 video: 167671538
 layout: work-profile
