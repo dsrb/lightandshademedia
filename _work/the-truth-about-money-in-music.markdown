@@ -1,7 +1,7 @@
 ---
 title: The truth about money in music
 date: 2017-05-16 04:42:00 Z
-position: 22
+position: 23
 thumbnail-image: "/uploads/TRUTH.jpg"
 video: 217610143
 ---

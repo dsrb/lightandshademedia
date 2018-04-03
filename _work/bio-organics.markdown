@@ -1,7 +1,7 @@
 ---
 title: Bio Organics - Glycemix
 date: 2016-10-18 04:02:00 Z
-position: 26
+position: 7
 thumbnail-image: "/uploads/work_thumb_025.jpg"
 video: 186208022
 layout: work-profile
