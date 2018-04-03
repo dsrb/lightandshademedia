@@ -1,7 +1,7 @@
 ---
 title: Paramount Pictures - Common ft John Legend 'Glory'
 date: 2016-10-01 11:30:00 Z
-position: 13
+position: 32
 thumbnail-image: "/uploads/work_thumb_001.jpg"
 video: 117863014
 layout: work-profile

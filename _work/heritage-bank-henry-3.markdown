@@ -1,6 +1,7 @@
 ---
 title: Heritage Bank - Henry 3
 date: 2018-04-03 01:23:00 Z
+position: 13
 thumbnail-image: "/uploads/Screen%20Shot%202018-04-03%20at%2011.17.00%20am.png"
 video: 262905620
 ---
