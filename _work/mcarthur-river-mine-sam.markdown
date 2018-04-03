@@ -1,7 +1,7 @@
 ---
 title: McArthur River Mine - Sam
 date: 2018-04-03 02:18:00 Z
-position: 9
+position: 11
 thumbnail-image: "/uploads/Screen%20Shot%202018-04-03%20at%2012.13.51%20pm.png"
 video: 262912647
 ---
