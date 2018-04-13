@@ -1,7 +1,7 @@
 ---
 title: Battery World
 date: 2018-04-03 07:39:00 Z
-position: 15
+position: 16
 thumbnail-image: "/uploads/Screen%20Shot%202018-04-03%20at%205.40.24%20pm.png"
 video: 262935574
 ---
