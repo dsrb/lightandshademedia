@@ -1,7 +1,7 @@
 ---
 title: Orange Sky -60 TVC
 date: 2018-07-24 02:01:00 Z
-thumbnail-image: "/uploads/Screen%20Shot%202018-07-24%20at%2011.45.47%20am-89da65.png"
+thumbnail-image: "/uploads/Screen%20Shot%202018-07-24%20at%2012.08.43%20pm.png"
 video: vimeo.com/280639560
 ---
 
